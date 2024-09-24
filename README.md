@@ -78,6 +78,7 @@ The primary objectives of this project are:
 6. It is clear that suicides are highest at the lower aged group, with teens having the highest numbers followed by youths. The following reasons have been evidenced to be key factor behind this high numbers.
 
 Teenagers:
+
 a) Academic Pressure: The stress of schoolwork, exams, and the pressure to succeed academically can be overwhelming.
 
 b) Social and Peer Pressure: The need to fit in, peer relationships, and social media influence can contribute to feelings of inadequacy and isolation.
@@ -89,10 +90,15 @@ d) Bullying and Cyberbullying: Both in-person and online bullying can have sever
 e) Family Dynamics: Family conflicts, parental expectations, and lack of support at home can exacerbate stress and emotional distress.
 
 Young Adults:
+
 a) Transition to Adulthood: The transition from adolescence to adulthood involves significant changes and challenges, including higher education, job hunting, and establishing independence.
+
 b) Economic Stress: Financial pressures, student loans, and job insecurity can contribute to feelings of hopelessness.
+
 c) Relationship Issues: Romantic relationships and the pressures of forming long-term commitments can be sources of stress.
+
 d) Identity and Self-Worth: Young adults are often in the process of forming their identity and self-worth, which can be a tumultuous period.
+
 e) Mental Health Stigma: There may be a reluctance to seek help due to the stigma associated with mental health issues.
 
 #### Methodology
