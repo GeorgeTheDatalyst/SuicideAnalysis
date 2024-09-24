@@ -22,17 +22,17 @@ The primary objectives of this project are:
 #### Insights
 1. It is clear that the female suicide cases were more than the male suicide cases. The higher number of female suicide cases compared to male cases can be attributed to several factors, which may vary depending on cultural, social, and economic contexts. Here are some potential reasons:
 
-1. **Social and Cultural Pressures**: In many societies, women may face significant social and cultural pressures, including expectations related to family roles, marriage, and societal norms. These pressures can contribute to mental health issues and suicidal behavior.
+a) **Social and Cultural Pressures**: In many societies, women may face significant social and cultural pressures, including expectations related to family roles, marriage, and societal norms. These pressures can contribute to mental health issues and suicidal behavior.
 
-2. **Domestic Violence and Abuse**: Women are often more likely to experience domestic violence, sexual abuse, and other forms of gender-based violence. These traumatic experiences can lead to severe mental health issues, including depression and suicidal tendencies.
+b) **Domestic Violence and Abuse**: Women are often more likely to experience domestic violence, sexual abuse, and other forms of gender-based violence. These traumatic experiences can lead to severe mental health issues, including depression and suicidal tendencies.
 
-3. **Economic Dependence**: Economic dependence on spouses or family members can limit women's ability to seek help or escape abusive situations, leading to feelings of hopelessness and despair.
+c) **Economic Dependence**: Economic dependence on spouses or family members can limit women's ability to seek help or escape abusive situations, leading to feelings of hopelessness and despair.
 
-4. **Mental Health Stigma**: In some cultures, there may be a stigma associated with women seeking mental health support, which can prevent them from accessing the help they need.
+d) **Mental Health Stigma**: In some cultures, there may be a stigma associated with women seeking mental health support, which can prevent them from accessing the help they need.
 
-5. **Access to Means**: The methods used for suicide can differ between genders, with women sometimes choosing less lethal means. However, the availability and access to these means can influence suicide rates.
+e) **Access to Means**: The methods used for suicide can differ between genders, with women sometimes choosing less lethal means. However, the availability and access to these means can influence suicide rates.
 
-6. **Psychological Factors**: Women may experience higher rates of certain mental health conditions, such as depression and anxiety, which are risk factors for suicide.
+f) **Psychological Factors**: Women may experience higher rates of certain mental health conditions, such as depression and anxiety, which are risk factors for suicide.
 
 #### Methodology
 The project utilizes data visualization techniques to present the findings in an easily interpretable format. Various charts and graphs, including line graphs, bar graphs, and pie charts, are employed to depict the data comprehensively. The data is sourced from reliable databases and is processed with Power BI to create an interactive and informative dashboard.
