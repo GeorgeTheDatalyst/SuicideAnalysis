@@ -1,6 +1,7 @@
 # Suicide Analysis
 ## Tools:
 Power BI
+
 Kaggle
 
 ## Suicide Analysis In Power BI
