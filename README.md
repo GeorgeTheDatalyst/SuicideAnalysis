@@ -5,7 +5,8 @@ Power BI
 Kaggle
 
 ## Suicide Analysis In Power BI
-![Alt text](https://sabrangindia.in/sites/default/files/inline-images/Suicide.jpg)
+
+![Alt text]([https://sabrangindia.in/sites/default/files/inline-images/Suicide.jpg](https://media.istockphoto.com/id/1209777417/vector/suicide.jpg?s=612x612&w=0&k=20&c=8HaGUYPXOtqP-JAwm0M4VS3nJhthKpxomVYdborC8BY=))
 
 ## 1. Introduction
 ## 1.1 Project Overview 
