@@ -22,17 +22,36 @@ The primary objectives of this project are:
 #### Insights
 1. It is clear that the female suicide cases were more than the male suicide cases. The higher number of female suicide cases compared to male cases can be attributed to several factors, which may vary depending on cultural, social, and economic contexts. Here are some potential reasons:
 
-a) **Social and Cultural Pressures**: In many societies, women may face significant social and cultural pressures, including expectations related to family roles, marriage, and societal norms. These pressures can contribute to mental health issues and suicidal behavior.
+    a) **Social and Cultural Pressures**: In many societies, women may face significant social and cultural pressures, including expectations related to family roles, marriage, and 
+       societal norms. These pressures can contribute to mental health issues and suicidal behavior.
+    
+    b) **Domestic Violence and Abuse**: Women are often more likely to experience domestic violence, sexual abuse, and other forms of gender-based violence. These traumatic experiences 
+       can lead to severe mental health issues, including depression and suicidal tendencies.
+    
+    c) **Economic Dependence**: Economic dependence on spouses or family members can limit women's ability to seek help or escape abusive situations, leading to feelings of hopelessness 
+       and despair.
+    
+    d) **Mental Health Stigma**: In some cultures, there may be a stigma associated with women seeking mental health support, which can prevent them from accessing the help they need.
+    
+    e) **Access to Means**: The methods used for suicide can differ between genders, with women sometimes choosing less lethal means. However, the availability and access to these means 
+       can influence suicide rates.
+    
+    f) **Psychological Factors**: Women may experience higher rates of certain mental health conditions, such as depression and anxiety, which are risk factors for suicide.
 
-b) **Domestic Violence and Abuse**: Women are often more likely to experience domestic violence, sexual abuse, and other forms of gender-based violence. These traumatic experiences can lead to severe mental health issues, including depression and suicidal tendencies.
+2. There is a pattern where suicides are lowest early in the year, peak around July, and then gradually decrease towards the end of the year. This can be influenced by several factors:
 
-c) **Economic Dependence**: Economic dependence on spouses or family members can limit women's ability to seek help or escape abusive situations, leading to feelings of hopelessness and despair.
-
-d) **Mental Health Stigma**: In some cultures, there may be a stigma associated with women seeking mental health support, which can prevent them from accessing the help they need.
-
-e) **Access to Means**: The methods used for suicide can differ between genders, with women sometimes choosing less lethal means. However, the availability and access to these means can influence suicide rates.
-
-f) **Psychological Factors**: Women may experience higher rates of certain mental health conditions, such as depression and anxiety, which are risk factors for suicide.
+      a) **Social and Academic Pressures**: For students and professionals, mid-year can be a time of high stress due to exams, project deadlines, and performance reviews. This                 increased pressure can contribute to higher suicide rates.
+      
+      b) **Weather Conditions**: In some regions, extreme weather conditions in the middle of the year, such as intense heat, can exacerbate mental health issues. Heatwaves and high             humidity levels have been linked to increased irritability and mental distress.
+      
+      c) **Isolation and Loneliness**: Social activities and family gatherings are often more frequent during the holiday season at the end of the year, which can provide emotional 
+       support. In contrast, mid-year might lack such social interactions, leading to feelings of isolation.
+      
+      d) **Economic Factors**: Financial stress can vary throughout the year, with mid-year possibly being a time when financial burdens accumulate, such as tax deadlines or mid-year 
+       financial assessments.
+      
+      e) **Cultural and Religious Events**: The presence or absence of cultural and religious events can impact mental health. For example, the beginning and end of the year often have 
+       significant holidays that bring people together, while mid-year might lack such events.
 
 #### Methodology
 The project utilizes data visualization techniques to present the findings in an easily interpretable format. Various charts and graphs, including line graphs, bar graphs, and pie charts, are employed to depict the data comprehensively. The data is sourced from reliable databases and is processed with Power BI to create an interactive and informative dashboard.
