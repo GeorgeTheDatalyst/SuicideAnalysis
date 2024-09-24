@@ -17,6 +17,9 @@ The primary objectives of this project are:
 4. **Weather Impact**: Explore the relationship between weather conditions and suicide rates to determine if certain weather patterns influence suicidal behavior.
 5. **Gender Comparison**: Compare suicide rates between males and females to identify any significant gender-related differences.
 
+![dashbord suicide](https://github.com/user-attachments/assets/100553cc-4738-4388-8376-e1d888d8b4f0)
+
+
 #### Methodology
 The project utilizes data visualization techniques to present the findings in an easily interpretable format. Various charts and graphs, including line graphs, bar graphs, and pie charts, are employed to depict the data comprehensively. The data is sourced from reliable databases and is processed with Power BI to create an interactive and informative dashboard.
 
