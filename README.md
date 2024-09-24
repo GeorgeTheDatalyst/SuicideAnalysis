@@ -53,6 +53,18 @@ The primary objectives of this project are:
       e) **Cultural and Religious Events**: The presence or absence of cultural and religious events can impact mental health. For example, the beginning and end of the year often have 
        significant holidays that bring people together, while mid-year might lack such events.
 
+3. There is a pattern of suicides being more frequent at night and least in the morning. This can be attributed to several psychological, social, and biological factors:
+
+    a) **Isolation and Loneliness**: Nighttime can be a period of increased isolation and loneliness, especially for individuals living alone. The lack of social interaction and support during these hours can exacerbate feelings of despair.
+    
+    b) **Reduced Distractions**: During the night, there are fewer distractions and activities to occupy the mind. This can lead to increased rumination on negative thoughts and feelings, which can escalate suicidal ideation.
+    
+    c) **Alcohol and Substance Use**: Nighttime is often associated with higher consumption of alcohol and other substances, which can impair judgment and increase impulsivity, leading to a higher risk of suicide.
+    
+    d) **Lack of Access to Help**: Mental health services and support networks are less accessible during the night. The absence of immediate help can make individuals feel more hopeless and isolated.
+    
+    e) **Emotional Vulnerability**: The end of the day can bring a sense of emotional exhaustion, making it harder to cope with stress and negative emotions. This vulnerability can increase the risk of suicidal behavior.
+
 #### Methodology
 The project utilizes data visualization techniques to present the findings in an easily interpretable format. Various charts and graphs, including line graphs, bar graphs, and pie charts, are employed to depict the data comprehensively. The data is sourced from reliable databases and is processed with Power BI to create an interactive and informative dashboard.
 
